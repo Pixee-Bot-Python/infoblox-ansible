@@ -1,4 +1,3 @@
-from __future__ import (absolute_import, division, print_function)
 __metaclass__ = type
 # Copyright (c) 2018-2019 Red Hat, Inc.
 # Copyright (c) 2020 Infoblox, Inc.
